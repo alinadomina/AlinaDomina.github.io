@@ -35,6 +35,7 @@ body {
 
 ol, ul {
 	list-style: none;
+	display: inline;
 }
 
 blockquote, q {
@@ -145,6 +146,15 @@ input, select, textarea {
 
 	body {
 		color: #212931;
+	}
+
+	.contact ul {
+		list-style-type: none;
+		display: inline;
+	}
+
+	#contacts li {
+		display: inline;
 	}
 
 	body, input, select, textarea {
