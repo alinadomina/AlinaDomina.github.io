@@ -10,9 +10,9 @@ that fulfills a few user requests and makes use of some new techniques I've been
 to try out. Enjoy it :)
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+you can use for pretty much whatever. TEST
 
-(* = not included)
+(* = not included)  
 
 AJ
 aj@lkn.io | @ajlkn
